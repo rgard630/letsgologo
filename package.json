@@ -1,0 +1,22 @@
+{
+    "name": "letsgologo",
+    "version": "1.0.0",
+    "description": "A simple SVG logo generator using Node.js",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "logo",
+        "generator",
+        "svg"
+    ],
+    "author": "Reginald Gardner",
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^7.3.3"
+    },
+    "devDependencies": {
+        "jest": "^27.0.6"
+    }
+}
